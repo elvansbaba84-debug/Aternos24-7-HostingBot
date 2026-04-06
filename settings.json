@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "niga-SzK4.aternos.me:47133",
+    "ip": "niga-SzK4.aternos.me",
     "port": 47133,
     "version": "",
     "try-creative": false
